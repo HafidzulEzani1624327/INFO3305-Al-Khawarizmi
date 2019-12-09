@@ -7,11 +7,16 @@ Repository fo INFO3305 Group Project, Group Al-Khawarizmi
 [[Expenses Tracker]]
 
 Group Al-Khawarizmi
+
 Members:
-  1.Hafidzul Ezani bin Zulkefli, 1624327
-  2.
-  3.
-  4.
+ 
+ 1.Hafidzul Ezani bin Zulkefli, 1624327
+  
+ 2.
+ 
+ 3.
+  
+ 4.
   
 Proposal for Project Development
   

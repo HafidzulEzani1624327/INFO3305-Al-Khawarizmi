@@ -12,11 +12,11 @@ Members:
  
  1.Hafidzul Ezani bin Zulkefli, 1624327
   
- 2.youssouf diallo              1620421
+ 2.Youssouf Diallo              1620421
  
- 3.
+ 3. Saidul Haq Sadi             1517193
   
- 4.
+ 4. MD Rubel Hossain PK         1515385
   
 Proposal for Project Development
   
